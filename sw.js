@@ -1,4 +1,4 @@
-importScripts('/js/sw-utils.js');
+importScripts('js/sw-utils.js');
 
 const STATIC_CACHE     ='stati-v2';
 const DYNAMIC_CACHE    ='dynamic-v1';
@@ -16,7 +16,7 @@ const APP_SHELL =[
     'img/avatars/thor.jpg',
     'img/avatars/wolverine.jpg',
     'js/app.js',
-    '/js/sw-utils.js'
+    'js/sw-utils.js'
 ];
 
 
